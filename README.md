@@ -6,7 +6,7 @@
  
 <h2>Description</h2>
 
-Included in the README for this repository are links to the Jupyter Notebook I performed my analysis within, a PowerPoint presentation of my findings, and an in-depth report of my EDA process.<br/>
+Included in the README for this repository are links to the Jupyter Notebook I performed my analysis within, a PowerPoint presentation of my findings, and an in-depth report of my investigation.<br/>
 <br/>
 If any of the links in the README don’t work, please email me at ericson@uark.edu and I’ll adjust the permissions for the documents. The University of Arkansas will unfortunately not allow me to indefinitely share my documents publicly through the student OneDrive.
 
