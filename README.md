@@ -2,7 +2,7 @@
 
  ### [Individual Jupyter Notebook](https://github.com/eericson2005/Fully-Paid-Loan-Analysis/blob/a753b0627baaad10a923ba80dbd7d109910560dc/Ethan's%20Code.ipynb)
  ### [Powerpoint Presentation](https://uark-my.sharepoint.com/:p:/g/personal/ericson_uark_edu/EXfXwTvR00ROkKV_5TE7I8IBeuB5zFNItXYDdvuJDNVQxA?e=Z72QKh)
- ### [Report](https://uark-my.sharepoint.com/:w:/g/personal/ericson_uark_edu/EXl_aybQf6FPj10BxKfE2QABoOLzeKevnSLMITPdmoO6Ng?e=bxebhY)
+ ### [Report](https://github.com/eericson2005/Fully-Paid-Loan-Analysis/blob/cf2b2b9d6e6871212d9d75eceb59cfef1ccccc9e/DASC_1223H_TFP_Presentation%20_Team2.pptx)
  ### [Individual Technical Report](https://github.com/eericson2005/Fully-Paid-Loan-Analysis/blob/a51041f5fc3d0dbe81c16490ef0248099d51583b/DASC_1223H_FTP_Technical_Report_EthanEricson.pdf)
  
 <h2>Description</h2>
