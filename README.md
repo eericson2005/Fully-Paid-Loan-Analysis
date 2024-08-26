@@ -16,7 +16,7 @@ My endeavors in functions with this project greatly increased not only my confid
 <br/>
 Included in the README for this repository are links to the Jupyter Notebook I performed my analysis within, a PowerPoint presentation of our findings as a team, and an in-depth report of our investigation. Additionally, I have included an individual technical report that details my specific contributions to the project.<br/>
 <br/>
-If any of the links in the README don’t work, please email me at ericson@uark.edu and I’ll adjust the permissions for the documents. The University of Arkansas will unfortunately not allow me to indefinitely share my documents publicly through the student OneDrive.
+If any of the links in the README don’t work, please email me at ericson@uark.edu and I’ll adjust the permissions for the documents. The University of Arkansas will unfortunately not allow me to indefinitely share my documents publicly through the student OneDrive. Alternatively, you can download the raw file directly. 
 
 <h2>Datasets Used</h2>
 
