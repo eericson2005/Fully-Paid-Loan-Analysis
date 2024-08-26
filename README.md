@@ -3,7 +3,7 @@
  ### [Individual Jupyter Notebook](https://github.com/eericson2005/Fully-Paid-Loan-Analysis/blob/a753b0627baaad10a923ba80dbd7d109910560dc/Ethan's%20Code.ipynb)
  ### [Powerpoint Presentation](https://uark-my.sharepoint.com/:p:/g/personal/ericson_uark_edu/EXfXwTvR00ROkKV_5TE7I8IBeuB5zFNItXYDdvuJDNVQxA?e=Z72QKh)
  ### [Report](https://uark-my.sharepoint.com/:w:/g/personal/ericson_uark_edu/EXl_aybQf6FPj10BxKfE2QABoOLzeKevnSLMITPdmoO6Ng?e=bxebhY)
- ### [Individual Technical Report](https://uark-my.sharepoint.com/:w:/g/personal/ericson_uark_edu/EbQ50zZbAFpCqzIh92kpttABJFQMslzIXjtzuRbHyczGhQ?e=sckE92)
+ ### [Individual Technical Report](https://github.com/eericson2005/Fully-Paid-Loan-Analysis/blob/a51041f5fc3d0dbe81c16490ef0248099d51583b/DASC_1223H_FTP_Technical_Report_EthanEricson.pdf)
  
 <h2>Description</h2>
 In this project, I worked with a team of three classmates and Dr. Aric LaBarr of North Carolina State University to analyze Lending Club loan data to determine what qualities make a “good borrower”. Upon investigation of the dataset, we decided to separate our analysis into the categories of loan-related factors, credit history, personal demographics, and financial indicators. I assumed responsibility for financial indicators and performed my analysis using Python. <br/>
