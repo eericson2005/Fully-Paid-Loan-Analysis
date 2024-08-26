@@ -1,6 +1,6 @@
 # Fully-Paid-Loan-Analysis
 
- ### [Individual Jupyter Notebook](https://github.com/eericson2005/Fully-Paid-Loan-Analysis/blob/11130913d140b5a78920ca0275435dc103743f40/Ethan's%20Code.ipynb)
+ ### [Individual Jupyter Notebook](https://github.com/eericson2005/Fully-Paid-Loan-Analysis/blob/a753b0627baaad10a923ba80dbd7d109910560dc/Ethan's%20Code.ipynb)
  ### [Powerpoint Presentation](https://uark-my.sharepoint.com/:p:/g/personal/ericson_uark_edu/EXfXwTvR00ROkKV_5TE7I8IBeuB5zFNItXYDdvuJDNVQxA?e=Z72QKh)
  ### [Report](https://uark-my.sharepoint.com/:w:/g/personal/ericson_uark_edu/EXl_aybQf6FPj10BxKfE2QABoOLzeKevnSLMITPdmoO6Ng?e=bxebhY)
  ### [Individual Technical Report](https://uark-my.sharepoint.com/:w:/g/personal/ericson_uark_edu/EbQ50zZbAFpCqzIh92kpttABJFQMslzIXjtzuRbHyczGhQ?e=sckE92)
