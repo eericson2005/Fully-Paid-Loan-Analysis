@@ -1,9 +1,9 @@
 # Fully-Paid-Loan-Analysis
 
- ### [Individual Jupyter Notebook](https://github.com/eericson2005/Fully-Paid-Loan-Analysis/blob/a753b0627baaad10a923ba80dbd7d109910560dc/Ethan's%20Code.ipynb)
- ### [Powerpoint Presentation](https://uark-my.sharepoint.com/:p:/g/personal/ericson_uark_edu/EXfXwTvR00ROkKV_5TE7I8IBeuB5zFNItXYDdvuJDNVQxA?e=Z72QKh)
+ ### [Individual Jupyter Notebook](https://github.com/eericson2005/Fully-Paid-Loan-Analysis/blob/main/Ethan's%20Code.ipynb)
+ ### [Powerpoint Presentation](https://github.com/eericson2005/Fully-Paid-Loan-Analysis/blob/main/DASC_1223H_TFP_Team2_Presentation.pdf)
  ### [Report](https://github.com/eericson2005/Fully-Paid-Loan-Analysis/blob/77e6477293456458dc8dc67a3b5365a46e605af3/DASC_1223H_TFP_Team2.pdf)
- ### [Individual Technical Report](https://github.com/eericson2005/Fully-Paid-Loan-Analysis/blob/a51041f5fc3d0dbe81c16490ef0248099d51583b/DASC_1223H_FTP_Technical_Report_EthanEricson.pdf)
+ ### [Individual Technical Report](https://github.com/eericson2005/Fully-Paid-Loan-Analysis/blob/main/DASC_1223H_FTP_Technical_Report_EthanEricson.pdf)
  
 <h2>Description</h2>
 In this project, I worked with a team of three classmates and Dr. Aric LaBarr of North Carolina State University to analyze Lending Club loan data to determine what qualities make a “good borrower”. Upon investigation of the dataset, we decided to separate our analysis into the categories of loan-related factors, credit history, personal demographics, and financial indicators. I assumed responsibility for financial indicators and performed my analysis using Python. <br/>
